@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1219688202491658330</ID>
+  <Details>en apprentissage</Details>
+  <State />
+  <PartySize>1</PartySize>
+  <PartyMax>1000</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2024-02-06T16:13:58</CustomTimestamp>
+  <LargeKey>piano</LargeKey>
+  <LargeText />
+  <SmallKey>piano</SmallKey>
+  <SmallText />
+  <Button1Text>clic here ↓</Button1Text>
+  <Button1URL>https://bit.ly/3BlS71b</Button1URL>
+  <Button2Text>and here ↓</Button2Text>
+  <Button2URL>https://bit.ly/3BlS71b</Button2URL>
+</Preset>

@@ -1,0 +1,8 @@
+{
+	"ACFlag": {
+		"ItemID": 630,
+		"Params": {
+			"TextureDiffuse": "ACFlag.png"
+		}
+    }
+}

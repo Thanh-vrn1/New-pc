@@ -1,0 +1,1 @@
+winget install https://aka.ms/SaRA-officeUninstallFromPC

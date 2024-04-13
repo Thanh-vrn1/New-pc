@@ -1,0 +1,14 @@
+VoiceChatIndicator
+9|Instructions : 
+9|- You can freely move the indicator by drag and drop (when bakkesmod window is open (F2)).
+9|- If the voice indicator is not correct, use the Force mute/unmute buttons below.
+9|- The voice indicator is only displayed when you are in a voice chat room.
+8|
+6|Display mode##VoiceChatIndicator|vci_displayMode|Display indicator only when Muted@1&Display indicator only when Unmuted@2&Display Mute and Unmute indicators@3&Hide indicator@0
+5|Indicator size##VoiceChatIndicator|vci_indicatorSize|24|64
+8|
+0|Force Mute##VoiceChatIndicator|vci_mute
+0|Force Unmute##VoiceChatIndicator|vci_unmute
+8|
+8|
+9|Discord Sephy#6775

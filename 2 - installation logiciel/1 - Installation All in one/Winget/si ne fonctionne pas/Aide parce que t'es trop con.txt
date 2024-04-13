@@ -1,0 +1,3 @@
+Si vous vous êtes récemment connecté en tant qu’utilisateur pour la première fois et que winget n’est toujours pas disponible, vous pouvez ouvrir PowerShell et entrer la commande suivante pour demander cette inscription winget de : Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.
+
+

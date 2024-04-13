@@ -1,0 +1,8 @@
+{
+    "Pikachu Ears": {
+		"ItemID": 1677,
+        "Diffuse": "PikachuEars/PikachuEars_D.png",
+        "Mask": "",
+        "Normal": ""
+    }
+}

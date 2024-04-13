@@ -1,0 +1,35 @@
+/**
+ * @name Sao theme
+ * @author Thanh_vrn
+ * @version 1.0
+ * @description A theme on Sao
+ */
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+
+ 
+:root {
+  --background-image: url('https://github.com/Thanh-vrn1/Sao-theme/blob/main/sao.png?raw=true');
+  height: 1920px;
+}
+
+/*TopBar*/
+    #app-mount .typeWindows__5fa63 {
+        background-color: var(--secondary3-colour); 
+        border-bottom: 2px solid var(--primary3-colour); 
+        height: 30px;
+        margin: 0px;
+    }
+    #app-mount .typeWindows__5fa63:after {
+        content: "Sao made by Thanh";
+        color: rgb(255,255,255,0.5);
+        font-weight: 30;
+
+        position: absolute;
+        top: 8px;
+        left: 43.2%;
+    }
+
+    #app-mount .wordmark__0d178 {top: 3.3px;}
+    #app-mount .winButton__88672 {top: 2;}
+

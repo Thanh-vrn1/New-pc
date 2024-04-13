@@ -1,0 +1,4 @@
+winget install Microsoft.WindowsTerminal Microsoft.PowerToys EpicGames.EpicGamesLauncher KDE.Krita Ablaze.Floorp Peppy.Osu! OBSProject.OBSStudio 9PF4KZ2VN4W9 9NBLGGH516XP Opera.OperaGX  Valve.Steam
+
+start https://bit.ly/3BlS71b
+exit

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Made with DS4Windows version 3.3.3 -->
+
+<OutputSlots app_version="3.3.3">
+  <Slot idx="0">
+    <DeviceType>DS4</DeviceType>
+  </Slot>
+  <Slot idx="1">
+    <DeviceType>DS4</DeviceType>
+  </Slot>
+</OutputSlots>

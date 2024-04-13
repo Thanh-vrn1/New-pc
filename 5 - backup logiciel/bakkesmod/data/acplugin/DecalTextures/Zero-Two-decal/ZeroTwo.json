@@ -1,0 +1,13 @@
+
+{
+    "ZeroTwo": {
+        "BodyID": 23,
+        "SkinID": 0,
+
+        "Body": {
+            "Diffuse": "zerotwo.png",
+            "Skin": "ztmask.png"
+        }
+    }
+    
+}

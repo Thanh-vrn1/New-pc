@@ -1,0 +1,30 @@
+2024-04-02 17:57:47.5894|INFO|DS4Windows version 3.3.3
+2024-04-02 17:57:47.5995|INFO|DS4Windows exe file: DS4Windows.exe
+2024-04-02 17:57:47.5995|INFO|DS4Windows Assembly Architecture: x64
+2024-04-02 17:57:47.5995|INFO|OS Version: Microsoft Windows NT 10.0.22635.0
+2024-04-02 17:57:47.5995|INFO|OS Product Name: Windows 10 Home
+2024-04-02 17:57:47.5995|INFO|OS Release ID: 2009
+2024-04-02 17:57:47.5995|INFO|System Architecture: x64
+2024-04-02 17:57:47.5995|INFO|Logger created
+2024-04-02 17:57:49.0477|INFO|Running as User
+2024-04-02 17:57:49.0691|INFO|Output slot #1 has permanent type DS4
+2024-04-02 17:57:49.0691|INFO|Output slot #2 has permanent type DS4
+2024-04-02 17:57:50.1795|INFO|Starting...
+2024-04-02 17:57:52.1799|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2024-04-02 17:57:52.1799|INFO|Using output KB+M handler: SendInput
+2024-04-02 17:57:52.1799|INFO|Connection to ViGEmBus 1.21.442.0 established
+2024-04-02 17:57:52.1799|INFO|Searching for controllers...
+2024-04-02 17:57:52.1799|INFO|Using Shared Mode
+2024-04-02 17:57:52.1799|INFO|Plugging in virtual DS4 Controller in output slot #1
+2024-04-02 17:57:52.1799|INFO|Plugging in virtual DS4 Controller in output slot #2
+2024-04-02 17:57:52.3236|INFO|Found Controller: 84:30:95:65:D3:DF (BT) (DS4 v.2).
+2024-04-02 17:57:52.4625|INFO|Controller 1 is using Profile "thanh". Battery level is 100%
+2024-04-02 19:05:06.4207|WARN|84:30:95:65:D3:DF disconnected due to read failure: 0
+2024-04-02 19:05:06.4207|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2024-04-02 19:05:06.4207|INFO|Controller 1 was removed or lost connection
+2024-04-02 20:43:54.4948|INFO|User Session Ending
+2024-04-02 20:43:54.4948|INFO|Stopping Virtual Output Controllers
+2024-04-02 20:43:54.4948|INFO|Closing connection to ViGEmBus
+2024-04-02 20:43:54.4948|INFO|Stopping DS4 Input Controllers
+2024-04-02 20:43:54.4948|INFO|Stopped DS4Windows
+2024-04-02 20:43:54.5059|INFO|Closing connection to output handler SendInput

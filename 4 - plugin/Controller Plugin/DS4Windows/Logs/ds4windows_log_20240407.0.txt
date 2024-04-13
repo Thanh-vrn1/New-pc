@@ -1,0 +1,43 @@
+2024-04-06 01:20:38.6983|INFO|DS4Windows version 3.3.3
+2024-04-06 01:20:38.7110|INFO|DS4Windows exe file: DS4Windows.exe
+2024-04-06 01:20:38.7110|INFO|DS4Windows Assembly Architecture: x64
+2024-04-06 01:20:38.7110|INFO|OS Version: Microsoft Windows NT 10.0.22635.0
+2024-04-06 01:20:38.7110|INFO|OS Product Name: Windows 10 Home
+2024-04-06 01:20:38.7110|INFO|OS Release ID: 2009
+2024-04-06 01:20:38.7110|INFO|System Architecture: x64
+2024-04-06 01:20:38.7110|INFO|Logger created
+2024-04-06 01:20:40.0948|INFO|Running as User
+2024-04-06 01:20:40.1113|INFO|Output slot #1 has permanent type DS4
+2024-04-06 01:20:40.1113|INFO|Output slot #2 has permanent type DS4
+2024-04-06 01:20:41.1909|INFO|Starting...
+2024-04-06 01:20:43.1920|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2024-04-06 01:20:43.1920|INFO|Using output KB+M handler: SendInput
+2024-04-06 01:20:43.1920|INFO|Connection to ViGEmBus 1.21.442.0 established
+2024-04-06 01:20:43.1920|INFO|Searching for controllers...
+2024-04-06 01:20:43.1920|INFO|Using Shared Mode
+2024-04-06 01:20:43.1962|INFO|Plugging in virtual DS4 Controller in output slot #1
+2024-04-06 01:20:43.1962|INFO|Plugging in virtual DS4 Controller in output slot #2
+2024-04-06 01:23:03.1702|INFO|Found Controller: 84:30:95:65:D3:DF (BT) (DS4 v.2).
+2024-04-06 01:23:03.3530|INFO|Controller 1 is using Profile "thanh". Battery level is 87%
+2024-04-06 02:34:25.6431|WARN|84:30:95:65:D3:DF disconnected due to read failure: 0
+2024-04-06 02:34:25.6431|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2024-04-06 02:34:25.6458|INFO|Controller 1 was removed or lost connection
+2024-04-06 12:05:49.9183|INFO|Found Controller: 84:30:95:65:D3:DF (BT) (DS4 v.2).
+2024-04-06 12:05:50.1287|INFO|Controller 1 is using Profile "thanh". Battery level is 75%
+2024-04-06 12:25:24.0328|WARN|84:30:95:65:D3:DF disconnected due to read failure: 0
+2024-04-06 12:25:24.0328|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2024-04-06 12:25:24.0328|INFO|Controller 1 was removed or lost connection
+2024-04-06 13:33:36.7529|INFO|Found Controller: 84:30:95:65:D3:DF (BT) (DS4 v.2).
+2024-04-06 13:33:36.8943|INFO|Controller 1 is using Profile "thanh". Battery level is 75%
+2024-04-06 16:26:16.8397|WARN|84:30:95:65:D3:DF disconnected due to read failure: 0
+2024-04-06 16:26:16.8397|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2024-04-06 16:26:16.8397|INFO|Controller 1 was removed or lost connection
+2024-04-06 16:26:18.9542|INFO|Found Controller: 84:30:95:65:D3:DF (USB) (DS4 v.2).
+2024-04-06 16:26:19.0112|INFO|Controller 1 is using Profile "thanh". Battery level is 54%
+2024-04-06 18:02:19.1352|INFO|Stopping Virtual Output Controllers
+2024-04-06 18:02:19.1352|INFO|Closing connection to ViGEmBus
+2024-04-06 18:02:19.1465|INFO|Controller 1 was removed or lost connection
+2024-04-06 18:02:19.2033|INFO|Stopping DS4 Input Controllers
+2024-04-06 18:02:19.2033|INFO|Stopped DS4Windows
+2024-04-06 18:02:19.2085|INFO|Closing connection to output handler SendInput
+2024-04-07 12:01:46.1874|INFO|User Session Ending
