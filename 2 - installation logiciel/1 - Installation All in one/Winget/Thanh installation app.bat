@@ -20,7 +20,7 @@ winget install Twitch.TwitchStudio                REM TWITCH STUDIO
 winget install Streamlabs.Streamlabs              REM STREAMLABS
 winget install ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.bing.com%2F&productid=9nf8h0h7wmlt&mode=mini&pos=335%2C115%2C1317%2C1122 REM PANNEAU DE CONFIG NVIDIA
 winget install https://fr.download.nvidia.com/nvapp/client/10.0.0.535/NVIDIA_app_beta_v10.0.0.535.exe  REM NVIDIA GEFORCE
-start https://dsadata.intel.com/installer         REM INTEL DRIVERS SUPPORT
+start https://dsadata.intel.com/installer                                  REM INTEL DRIVERS SUPPORT
 start https://brightvpn.com/?lang=fr#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MTA4OSwidG9nZ2xlIjpmYWxzZX0%3D REM BRIGHTVPN
 start https://filezilla-project.org/download.php?type=client               REM FILEZILLA
 start https://download.battle.net/fr-fr/?platform=windows                  REM BATTLE NET
