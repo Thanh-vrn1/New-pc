@@ -21,6 +21,7 @@ winget install Streamlabs.Streamlabs              REM STREAMLABS
 start https://dsadata.intel.com/installer         REM INTEL DRIVERS SUPPORT
 start https://brightvpn.com/?lang=fr#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MTA4OSwidG9nZ2xlIjpmYWxzZX0%3D REM BRIGHTVPN
 start https://filezilla-project.org/download.php?type=client               REM FILEZILLA
+start https://download.battle.net/fr-fr/?platform=windows                  REM BATTLE NET
 start https://bakkesmod.com/download.php                                   REM BAKKESMOD
 start https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe   REM STEAM
 
