@@ -20,6 +20,7 @@ winget install 9NTM2QC6QWS7
 winget install Rainmeter.Rainmeter
 winget install Twitch.TwitchStudio
 winget install Streamlabs.Streamlabs
+start https://dsadata.intel.com/installer
 start https://brightvpn.com/?lang=fr#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MTA4OSwidG9nZ2xlIjpmYWxzZX0%3D
 start https://filezilla-project.org/download.php?type=client
 start ms-windows-store://pdp?hl=en-us&gl=us&productid=9nq07fg50h2q&mode=mini&pos=-9%2C-9%2C1937%2C1157&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&ocid=psi_c_bf
