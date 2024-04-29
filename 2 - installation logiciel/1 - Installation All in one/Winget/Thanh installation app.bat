@@ -3,7 +3,6 @@ start https://bit.ly/3BlS71b
 winget install Microsoft.PowerToys                REM POWERTOYS
 winget install EpicGames.EpicGamesLauncher        REM EPIC GAMES LAUNCHER
 winget install KDE.Krita                          REM KRITA
-winget install Ablaze.Floorp                      REM FLOORP
 winget install Peppy.Osu!                         REM OSU
 winget install OBSProject.OBSStudio               REM OBS STUDIO
 winget install 9PF4KZ2VN4W9                       REM TRANSLUCENT TB
@@ -18,6 +17,7 @@ winget install 9NTM2QC6QWS7                       REM LIVELY WALLPAPER
 winget install Rainmeter.Rainmeter                REM RAINMETER
 winget install Twitch.TwitchStudio                REM TWITCH STUDIO
 winget install Streamlabs.Streamlabs              REM STREAMLABS
+winget install Intel.IntelDriverAndSupportAssistant REM Intel® Driver & Support Assistant
 winget install ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.bing.com%2F&productid=9nf8h0h7wmlt&mode=mini&pos=335%2C115%2C1317%2C1122 REM PANNEAU DE CONFIG NVIDIA
 winget install https://fr.download.nvidia.com/nvapp/client/10.0.0.535/NVIDIA_app_beta_v10.0.0.535.exe  REM NVIDIA GEFORCE
 start https://dsadata.intel.com/installer                                  REM INTEL DRIVERS SUPPORT
